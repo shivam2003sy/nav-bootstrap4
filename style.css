@@ -1,0 +1,50 @@
+.button{
+       background-color: rgb(3, 3, 51);
+       border: none;
+       color: white;
+       text-align: center;
+       display: inline-block;
+       text-align: center;
+       margin-top: auto;
+       margin: 4px 2px;
+       align-items: center;
+       border-radius: 16px;
+}
+.button2{
+       background-color: white;
+       align-items: center;
+       border: transparent;
+       border-radius:5px ;
+
+
+}
+
+
+
+
+body{
+       background-color: white;
+       
+
+
+       
+}
+#offer{
+       background-color: rgb(255, 193, 223);
+       
+       
+
+
+}
+
+
+
+
+#link{
+       text-decoration-color: blue;
+       
+}
+#button4{
+       color: white;
+       background: blue;
+}
